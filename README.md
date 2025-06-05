@@ -7,3 +7,7 @@ In this project I will be documenting my installation process and issues when se
 ![image](https://github.com/user-attachments/assets/85c38b61-7d93-4271-9915-4054472d2120)
 
 ![image](https://github.com/user-attachments/assets/0e47aa71-0c47-48a5-add6-94976e7133e2)
+
+![image](https://github.com/user-attachments/assets/cde7e53d-ebb1-4733-b673-b8240f4e817e)
+
+![image](https://github.com/user-attachments/assets/578001cb-1313-4f02-89a1-1519341a4819)
