@@ -18,3 +18,5 @@ In this project I will be documenting my installation process and issues when se
 
 ![image](https://github.com/user-attachments/assets/cbf3f2fa-f718-4b66-9fd1-9a18e433c3d2)
 
+![image](https://github.com/user-attachments/assets/d3433cd6-9380-4d4b-b41f-6422f87747f1)
+
