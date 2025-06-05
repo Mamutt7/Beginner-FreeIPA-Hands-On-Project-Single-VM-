@@ -19,4 +19,7 @@ In this project I will be documenting my installation process and issues when se
 ![image](https://github.com/user-attachments/assets/cbf3f2fa-f718-4b66-9fd1-9a18e433c3d2)
 
 ![image](https://github.com/user-attachments/assets/d3433cd6-9380-4d4b-b41f-6422f87747f1)
+![image](https://github.com/user-attachments/assets/cfd1f759-6460-4400-964d-c59f2066365a)
+![image](https://github.com/user-attachments/assets/77d27a7d-bda3-40c0-9689-1a61771029b3)
+![image](https://github.com/user-attachments/assets/1953f0df-64f6-42b7-8995-923aa56b84d5)
 
